@@ -1,3 +1,7 @@
+
+
+<img src=“https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif” alt= “woman technologist”>  
+
 <h1 align="center">Hi 👋🏽, I'm Daniela </h1>
 <h3 align="center">A passionate frontend developer based in Boston, MA</h3>
 

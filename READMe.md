@@ -1,5 +1,5 @@
 
-<img src= "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt= "woman technologist" width="500" height="300" style= " text-align: center;"> 
+<img src= "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt= "woman technologist" width="500" height="300" style= " text-align: center"> 
 
 
 <h1 align="center">Hi 👋🏽, I'm Daniela </h1>
